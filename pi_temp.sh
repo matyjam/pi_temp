@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script: pi_temp.sh
 # Purpose: Display the ARM CPU and GPU  temperature of Raspberry Pi 2/3/4 and volage, current of LiFePo4wered battery module
-# Author: Maiusz Matyja under GPL v2.x+
+# Author: Maiusz Matyja under GPL v3.x+
 # -------------------------------------------------------
 
 OPTIND=1        # reset getopts
